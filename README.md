@@ -10,15 +10,39 @@
 
 </div>
 
+<br>
+
 ## Project Overview
 
-intro sentence
+<div align='center'>
 
-### About Me
+(intro sentence)
+
+</div>
 
 <br>
 
 <div align='center'>
+
+### Stakeholders
+
+</div>
+
+- **Product Manager (PM):** When/where demand is strong or fragile; user behavior patterns; which hypotheses to prioritize next quarter.
+  
+- **Operations Lead:** Inventory rebalancing windows; staffing for spikes; low-impact maintenance windows.
+
+- **Marketing Lead:** Promo timing (day/hour/season), and segments likely to respond (e.g., casual rider vs registered).
+
+- **Policy & Ethics Advisor:** Equity of access; avoiding decisions that disadvantage specific times/areas; responsible communication of uncertainty.
+
+<br>
+
+<div align='center'>
+
+### About Me
+
+<br>
     
 ![casual-septum](https://github.com/user-attachments/assets/86b1b472-797d-4c8e-ae70-3cf6ae68bc88)
 
@@ -30,15 +54,17 @@ Hi! I'm Rolando, but I mainly like to go by Ro. I have a particular interest in 
 
 </div>
 
+<br>
 
-
-</div>
-
+<div align='center'>
 
 ### A Quick Look
 
 (summary of insights + recommendations here)
 
+</div>
+
+<br>
 
 ## README Navigation
 
