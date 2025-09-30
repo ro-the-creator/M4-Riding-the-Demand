@@ -94,3 +94,9 @@ There is general information within this file, mainly pertaining to the dataset.
 
 3. The holidays show something else that's interesting. **April** is the highest registered users use, and **November** follows closely behind.  **December** is the least used month.
     - There may be potential to boost sales through promotions in July and September, particularly with promotions during 4th of July or Labor Day.
+
+
+
+#### **Honorable Mention**
+
+- I also checked the busiest/driest times, during the busiest/driest days, respectively. What I found is that those days' bike usage remains largely identical to what is represented by the overall bike usage.
