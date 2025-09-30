@@ -101,7 +101,7 @@ For the most part, I discovered that weekends in the evening held the busiest bi
 
 On the contrary, I found that the beginning of the week, from Sunday - Wednesday, was the lower bike usage days. Specifically, the early mornings and spring times were very low. While there isn't much to be done about low bike usage during early morning hours, there is a large area in the Spring season that should be the focus of improvement for the next quarter.
 
-More information on exploratory data analysis can be found [here](#/cleaning_EDA).
+More information on exploratory data analysis can be found [here](#./cleaning_EDA).
 
 </div>
 
@@ -109,7 +109,7 @@ More information on exploratory data analysis can be found [here](#/cleaning_EDA
 
 
 <div align='center'>
-Visualization was an important part of my analysis. Charting the data not only helps visualize my findings, but it also helped me orient my points of focus during my statistical analysis.
+Visualization was an important part of my analysis. Charting the data not only helps visualize my findings, but it also helps me orient my points of focus during my statistical analysis.
 
 <br>
   
@@ -126,7 +126,7 @@ Visualization was an important part of my analysis. Charting the data not only h
 
 <br>
 
-More details on the visuals, including the process for creation, can be found [here](/#visuals).
+More details on the visuals, including the process for creation, can be found [here](./#visuals).
 
 </div>
 
@@ -148,7 +148,7 @@ The hypotheses section marked the start of my statistical analysis to find deepe
 
 <div align='center'>
 
-These tests gave my insights more meaning by giving statistical context and support. The findings, as well as the process behind these tests, can be viewed in detail [here](#/statistics).
+These tests gave my insights more meaning by giving statistical context and support. The findings, as well as the process behind these tests, can be viewed in detail [here](#./statistics).
 </div>
 
 ## AB Testing
@@ -167,7 +167,7 @@ Other important information regarding this test includes:
 
 <div align='center'>
 
-More information for this test can also be found in the `/statistics` folder [here](#/statistics).
+More information for this test can also be found in the `/statistics` folder [here](#./statistics).
 
 </div>
 
