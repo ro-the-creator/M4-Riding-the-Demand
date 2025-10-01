@@ -58,7 +58,7 @@ Furthermore, key points were highlighted with contrasting colors and sorted valu
 
 - **Axis 3:** Lowest daily usage highlighted in dark green, whereas the highest daily usage was highlighted in a deeper light green.
 
-**Axis 4:** The two lowest hours are painted black, contrasted against the orange gradient bars.
+- **Axis 4:** The two lowest hours are painted black, contrasted against the orange gradient bars.
 
 
 ### **Holidays**
